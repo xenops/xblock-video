@@ -53,7 +53,7 @@ setup(
         'git+https://github.com/edx/xblock-utils.git@v1.0.5#egg=xblock-utils==1.0.5',
     ],
     install_requires=[
-        'beautifulsoup4==4.4.1',
+        'beautifulsoup4==4.7.1',
         'pycaption==0.7.7',
         'requests>=2.9.1,<3.0.0',
         'babelfish>=0.5.5,<0.6.0',
